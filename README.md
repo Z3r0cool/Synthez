@@ -35,10 +35,14 @@ Les fichiers sont décomposés de tel sorte :
 
 Les notes vont de 0 à 11, correspondant au tableau suivant :
 
-0|1|2|3|4|5|6|7|8|9|10|11
--|-|-|-|-|-|-|-|-|-|-|-|-|-
-La|La#|Si|Do|Do#|Re|Re#|Mi|Fa|Fa#|Sol|Sol#
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
+ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 
+---|---|---|---|---|---|---|---|---|---|----|---
+La |La#|Si |Do |Do#|Re |Re#|Mi |Fa |Fa#|Sol |Sol#
 ```xml
 <time id="0" notes="0,4,5"></time>
 <time id="1" notes="0,8,15"></time>
