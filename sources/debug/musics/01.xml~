@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<music tempo="180" duration="30">
+	<track id="0" name="Melody" type="M">
+		<soundfile src="./samples/guitar.wav"></soundfile>
+		<time id="1">
+		  <note value="1"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		</time>
+		<time id="2">
+		  <note value="0"></note>
+		  <note value="1"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		</time>
+		<time id="3">
+		  <note value="1"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		</time>
+		<time id="4">
+		  <note value="0"></note>
+		  <note value="1"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		</time>
+		<time id="5">
+		  <note value="1"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		  <note value="0"></note>
+		</time>
+	</track>
+</music>
